@@ -11,7 +11,7 @@ This Python script automates the configuration of Huawei routers (works for mode
 
 ## Tips
 
-* The URL asked at the beggining of the code is the router default IP adress (usually http://192.168.31)
+* The URL asked at the beggining of the code is the router default IP address (usually http://192.168.31)
   * If you don't know the correct adress just use `ipconfig` command at your cmd
 
 * Issues with the 'chromedriver.exe' file are probably related with its version, you can search for different versions at https://googlechromelabs.github.io/chrome-for-testing/
